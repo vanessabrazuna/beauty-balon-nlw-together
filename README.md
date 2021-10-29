@@ -6,9 +6,7 @@
 
 <br>
 
-<p align="center">
-  ![Origin Six (Community)](https://user-images.githubusercontent.com/73675022/139452246-fcec8e2f-cf38-4b07-80d0-810d28f50423.png)
-</p>
+![Origin Six (Community)](https://user-images.githubusercontent.com/73675022/139452246-fcec8e2f-cf38-4b07-80d0-810d28f50423.png)
 
 ## 🚀 Tecnologias
 
