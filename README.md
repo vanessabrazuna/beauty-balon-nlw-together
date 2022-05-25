@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -8,29 +8,29 @@
 
 ![Origin Six (Community)](https://user-images.githubusercontent.com/73675022/139452246-fcec8e2f-cf38-4b07-80d0-810d28f50423.png)
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML
 - CSS
 - JavaScript
 
-Bibliotecas
+Libraries
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
 - [ScrollRevel](https://scrollrevealjs.org)
 
-Utilitários
+Utilities
 
 - [randomuser.me](https://randomuser.me/photos)
 - [IconMoon](https://icomoon.io/app/#/select)
 
-## 💻 Projeto
+## 💻 Project
 
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
+OriginSix is an institutional page in One Page format, responsive, to be used in different types of micro, small and medium companies. Contains the following sections: Header, Navigation, Home, About, Services, Testimonials, Contact and Footer
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+You can view the project layout through [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). It is necessary to have an account [Figma](https://figma.com) to access it.
