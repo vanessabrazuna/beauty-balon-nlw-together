@@ -33,4 +33,4 @@ OriginSix is an institutional page in One Page format, responsive, to be used in
 
 ## 🔖 Layout
 
-You can view the project layout through [desse link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). It is necessary to have an account [Figma](https://figma.com) to access it.
+You can view the project layout through [of that link](https://www.figma.com/community/file/1009807319507822993/Origin-Six). It is necessary to have an account [Figma](https://figma.com) to access it.
